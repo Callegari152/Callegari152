@@ -1,6 +1,6 @@
 - Luca de Sampaio Callegari
-- 20 anos
-- Cursando Engenharia de Software na Unirritter, Porto Alegre
+- 21 anos
+- Cursando Engenharia de Software na PUCRS, Porto Alegre
 - Linguagem de Programação Principais:
    - Python -> Intermediario
    - Java -> Básico
