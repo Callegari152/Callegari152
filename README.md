@@ -63,7 +63,7 @@ Atualmente focando na realização de projetos da faculdade e pessoais. Buscando
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=callegari152&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callegari152&layout=compact&theme=tokyonight" />
 </p>
 
 ---
