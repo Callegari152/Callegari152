@@ -1,4 +1,4 @@
-# Olá 👋, Meu nome é Luca Callegari.
+# Olá, Meu nome é Luca Callegari.
 
 🚀 **Estudante de Engenharia de Software | PUCRS - 4 semestre**  
 🇧🇷 Porto Alegre, Brazil
@@ -63,7 +63,7 @@ Atualmente focando na realização de projetos da faculdade e pessoais. Buscando
 ## 📊 GitHub Stats
 
 <p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Callegari152&layout=compact&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca de Sampaio Callegari&layout=compact&theme=tokyonight" />
 </p>
 
 ---
