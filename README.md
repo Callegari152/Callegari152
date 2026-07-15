@@ -60,12 +60,6 @@ Atualmente focando na realização de projetos da faculdade e pessoais. Buscando
 
 ---
 
-## 📊 GitHub Stats
 
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luca de Sampaio Callegari&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 
